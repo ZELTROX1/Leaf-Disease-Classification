@@ -172,12 +172,11 @@ The model achieves the following performance metrics on the validation set:
 
 ## Future Improvements
 
-- Implement more advanced data augmentation techniques
-- Add support for more plant species and diseases
-- Integrate with a mobile application
-- Add multi-language support
-- Implement explainable AI features to highlight affected areas on the leaf
-
+- Incorporate enhanced and sophisticated data augmentation methods
+- Expand compatibility to include a wider range of plant species and       associated diseases
+- Enable integration with a mobile platform or application
+- Provide multilingual support for broader accessibility
+- Develop explainable AI capabilities to visually indicate the impacted regions on the leaf
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
