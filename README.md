@@ -19,7 +19,7 @@ This project implements an automated plant disease detection system using a cust
 ## Tech Stack
 
 - **Backend**: Python, FastAPI, PyTorch
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS and JavaScript
 - **Deep Learning**: ResNet50, PyTorch
 - **Image Processing**: OpenCV, PIL
 - **Deployment**: Docker (optional)
@@ -75,7 +75,7 @@ This project implements an automated plant disease detection system using a cust
 
 ### Using the Web Interface
 
-1. Click the "Upload Image" button to select a leaf image from your device
+1. Click on the "Upload Image" button to select a leaf image from your device
 2. The application will process the image and display:
    - The detected disease class
    - Confidence score
