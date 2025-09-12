@@ -165,11 +165,9 @@ Returns all available disease classes the model can identify.
 ## Performance
 
 The model achieves the following performance metrics on the validation set:
-- **Accuracy**: XX% (fill in with your model's performance)
-- **Precision**: XX%
-- **Recall**: XX%
-- **F1 Score**: XX%
-
+- **Accuracy**: 79% (fill in with your model's performance)
+- **Precision**: 80%
+  
 ## Future Improvements
 
 - Incorporate enhanced and sophisticated data augmentation methods
